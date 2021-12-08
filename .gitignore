@@ -129,7 +129,8 @@ dmypy.json
 .pyre/
 
 # csv files
-day_1/data.csv
+day_01/data.csv
+day_07/data.csv
 
 # requirements file
 requirements.txt

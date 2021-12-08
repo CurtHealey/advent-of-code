@@ -130,3 +130,6 @@ dmypy.json
 
 # csv files
 day_1/data.csv
+
+# requirements file
+requirements.txt
